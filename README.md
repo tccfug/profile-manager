@@ -1,8 +1,13 @@
-account-manager
+Account Manager
 ===============
 
-ColdFusion subscription/account management portal for email, linkedin, twitter &amp; facebook integration
+The TCCFGU Account Manager module is a ColdFusion driven subscription & account management portal for email, LinkedIn, Twitter & Facebook subscriptions.
 
-- The account manager functionality will users to create an account that is tied to an email address, linkedin, twitter or facebook (google+ ??) account.
-- Allow users to manage notification perferences (Presentations, Job Postings, Other)
-- Allow for admin users
+It accomplishes the following:
+
+- Allows users to create accounts or subscriptions which are tied to their desired social media outlet(s)
+- Allows users to manage notification preferences for user definable channels:
+  - Examples: Presentations, Job Postings, & Social Events
+- Stores reusable authentication tokens for users
+- Allows for admin users
+- Stores references and settings in a relational database
