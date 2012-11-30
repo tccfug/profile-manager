@@ -1,7 +1,7 @@
 Account Manager
 ===============
 
-The TCCFGU Account Manager module is a ColdFusion driven subscription & account management portal for email, LinkedIn, Twitter & Facebook subscriptions.
+The Account Manager module is a ColdFusion driven subscription & account management portal for email, LinkedIn, Twitter & Facebook subscriptions.
 
 It accomplishes the following:
 
